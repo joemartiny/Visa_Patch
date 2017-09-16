@@ -1,0 +1,8 @@
+setup.py
+vdp.egg-info/PKG-INFO
+vdp.egg-info/SOURCES.txt
+vdp.egg-info/dependency_links.txt
+vdp.egg-info/requires.txt
+vdp.egg-info/top_level.txt
+visa/__init__.py
+visa/test/__init__.py
